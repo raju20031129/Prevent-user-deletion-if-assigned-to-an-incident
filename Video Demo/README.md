@@ -1,2 +1,0 @@
-Video demonstration of project
-
